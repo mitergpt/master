@@ -34,7 +34,7 @@ public class AskGptUtil {
     /**
      * api密匙
      */
-    String apiKey = "Bearer " + "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";
+    String apiKey = "Bearer " + "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";
 
     public void sendGpt(String txt) throws Exception {
         CloseableHttpClient httpClient = HttpClients.createDefault();
